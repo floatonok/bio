@@ -18,6 +18,7 @@ h1 {
 /*home*/
 
 body.home {
+
     background: url(./images/continuous.jpg) no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
